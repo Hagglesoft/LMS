@@ -1,4 +1,4 @@
-# SchMS
+# LMS
 Description For School/Educational Institution Management App
 Here's a brief demo of some common features you might find in a school management application:
 
